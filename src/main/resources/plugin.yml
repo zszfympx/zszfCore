@@ -1,0 +1,3 @@
+name: zszfcore
+main: com.zszf.zszfCore.PluginMain
+version: ${version}

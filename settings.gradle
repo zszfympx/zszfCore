@@ -1,2 +1,10 @@
+buildscript {
+    repositories {
+        maven{
+            name 'aliyunGradlePlugin'
+            url 'https://maven.aliyun.com/repository/gradle-plugin'
+        }
+    }
+}
 rootProject.name = 'zszfCore'
 
