@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83bc65f0-9786-4e45-899a-ba6c0e8ffcd6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflow/build.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="83bc65f0-9786-4e45-899a-ba6c0e8ffcd6" name="更改" comment="workflow">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/PluginMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/PluginMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Chicken.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Listeners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Wither.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zszf/zszfCore/listener/Wither.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,8 +165,35 @@
       <option name="presentableId" value="Default" />
       <updated>1706163614519</updated>
       <workItem from="1706163615588" duration="9919000" />
-      <workItem from="1706192095537" duration="1402000" />
+      <workItem from="1706192095537" duration="2855000" />
+      <workItem from="1706233424023" duration="64000" />
+      <workItem from="1706233529700" duration="259000" />
     </task>
+    <task id="LOCAL-00001" summary="workflow">
+      <option name="closed" value="true" />
+      <created>1706193645804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706193645804</updated>
+    </task>
+    <task id="LOCAL-00002" summary="workflow">
+      <option name="closed" value="true" />
+      <created>1706193771904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706193771904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="workflow">
+      <option name="closed" value="true" />
+      <created>1706193831585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706193831585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,5 +201,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="workflow" />
   </component>
 </project>

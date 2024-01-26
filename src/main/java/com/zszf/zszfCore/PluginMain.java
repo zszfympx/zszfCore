@@ -61,7 +61,7 @@ public class PluginMain extends JavaPlugin {
                 "                                                                                                                                                         \n");
         logger.info(ChatColor.RED + "===================================================================================================================================================");
         Listeners listeners = new Listeners();
-        listeners.reg();
+        listeners.reg(this);
     }
 
     @Override

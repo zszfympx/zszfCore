@@ -1,3 +1,7 @@
 name: zszfcore
 main: com.zszf.zszfCore.PluginMain
 version: ${version}
+permissions:
+  zszfcore.witherDupe:
+    description: zszfcoreWitherDupePermission
+    default: op

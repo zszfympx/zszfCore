@@ -13,7 +13,7 @@ public class Chicken implements Listener {
     public void interactAtChicken(PlayerInteractEntityEvent event) {
         if (event.getRightClicked().getType().equals(EntityType.CHICKEN)) {
             if (event.getPlayer().getActiveItem().getType().equals(Material.AIR)) {
-                if (event.getPlayer().hasPermission("zszfcore.chickendupe")) {
+                if (event.getPlayer().hasPermission("zszfcore.chickenDupe")) {
                     PluginMain.dupeChickenList.put(event.getRightClicked().getUniqueId(), event.getPlayer().getActiveItem());
 
                 }
